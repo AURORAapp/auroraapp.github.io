@@ -7,11 +7,11 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Contact
+- title: Contacto
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Descargar app  
+  url: https://twitter.com/Aurora_app_
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -21,12 +21,12 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
+- title: Política de Privacidad
   url: "privacy-policy/"
 
-- title: Contact
+- title: Contacto
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Descarga
+  url: https://twitter.com/Aurora_app_  
   external: true

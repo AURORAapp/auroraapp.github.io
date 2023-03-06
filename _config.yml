@@ -1,13 +1,13 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "AURORA app"
+email: auroraforwomen@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/AURORA-app"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-author: Sal
+logo: 'assets/images/hitgirl_aurora.png'
+favicon: 'assets/images/aurora_ic.ico'
+author: AURORA app
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'AURORAapp'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -25,27 +25,27 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: AURORA app
+    display_name: AURORA app
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: auroraforwomen@gmail.com
+    web: auroraapp.github.io
+    twitter: https://twitter.com/Aurora_app_
+    description: "El equipo de AURORA app te ha traido esta publicación con mucho amor, siguenos en TikTok, Instagram, Twitter, Youtube y descarga AURORA app en iOS y Android para que este proyecto continúe."
+  AURORA app:
+    name: AURORA app
+    display_name: AURORA app
+    avatar: 'https://pbs.twimg.com/profile_images/1622016608196501504/dVSjugEK_400x400.jpg'
+    email: auroraforwomen@gmail.com
+    web: auroraapp.github.io
+    twitter: https://twitter.com/Aurora_app_
+    description: "El equipo de AURORA app te ha traido esta publicación con mucho amor, siguenos en TikTok, Instagram, Twitter, Youtube, Facebook y descarga AURORA app en iOS y Android para que este proyecto continúe."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/aurora_app_/
+  facebook: https://www.facebook.com/profile.php?id=100090112058218
+  twitter: https://twitter.com/Aurora_app_
 
 # Plugins
 plugins: 
